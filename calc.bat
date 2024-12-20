@@ -1,7 +1,7 @@
 @echo off
 :a
 cls
-set prob=problem: 
+set /p prob=problem: 
 set res=%prob%
 echo %res%
 pause
