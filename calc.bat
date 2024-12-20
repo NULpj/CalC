@@ -3,6 +3,6 @@
 cls
 set /p prob=problem: 
 set /a res=%prob%
-echo %res%
+echo result: %res%
 pause
 goto a
